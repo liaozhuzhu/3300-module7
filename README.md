@@ -10,7 +10,7 @@ project explores the relationship between review scores and sales figures to
 determine if well-rated games sell better or if niche games with dedicated fanbases
 skew the data.
 This repository publishes the website. You can read the full paper at:
-https://mikecolbert.me/
+https://victorious-moss-068997010.6.azurestaticapps.net/ (see icon comment)
 ![Two people playing video games](jeshoots-com-eCktzGjC-iU-unsplash.jpg)
 _Photo by [JESHOOTS.COM](https://unsplash.com/@jeshoots?
 utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash]
